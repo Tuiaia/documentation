@@ -39,15 +39,16 @@ Os escopos podem ser usados para indicar qual parte do projeto está sendo modif
 - Footer
 - Responsividade
 - Configuração de Software
+- Dataset
 
 ## Assunto
-O assunto deve ser uma descrição clara e sucinta do que foi feito. Ele deve ser escrito em letras minúsculas e sem ponto final.
+O assunto deve ser uma descrição clara e sucinta do que foi feito, com ação e objetivo da melhoria. 
 
 ## Corpo
-O corpo é opcional e pode ser usado para fornecer mais informações sobre as mudanças feitas. Ele deve ser escrito em letras minúsculas e separado do assunto por uma linha em branco.
+O corpo é opcional e pode ser usado para fornecer mais informações sobre as mudanças feitas. Ele deve ser separado do assunto por uma linha em branco.
 
 ## Rodapé
-O rodapé é opcional e pode ser usado para fornecer informações adicionais, como números de issues relacionadas, referências a outras mudanças, etc. Ele deve ser escrito em letras minúsculas e separado do corpo por uma linha em branco.
+O rodapé é opcional e pode ser usado para fornecer informações adicionais, como números de issues relacionadas, referências a outras mudanças, etc. Ele deve ser separado do corpo por uma linha em branco.
 
 ## Exemplo
 feat(Notícias): Adicionar filtro de notícias por fonte de informação
@@ -55,5 +56,3 @@ feat(Notícias): Adicionar filtro de notícias por fonte de informação
 Permitir que o usuário filtre as notícias por uma caixa de seleção para visualizar apenas as notícias das fontes que deseja.
 
 Fixes #123
-
-
